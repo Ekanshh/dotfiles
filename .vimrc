@@ -14,3 +14,7 @@ set wrapmargin=0
 set wrap
 set linebreak 
 set columns=80
+
+" allow yank to clipboard 
+ set clipboard=unnamedplus
+
