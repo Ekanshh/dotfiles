@@ -4,3 +4,7 @@ vnoremap <silent> -# :s/^#//<cr>:noh<cr>
 
 " Set relative line numbers by default
 set number
+
+" Set backspace navigation
+set backspace=indent,eol,start
+
