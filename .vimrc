@@ -8,3 +8,9 @@ set number
 " Set backspace navigation
 set backspace=indent,eol,start
 
+" Set autowrap visually
+set textwidth=0
+set wrapmargin=0
+set wrap
+set linebreak 
+set columns=80
