@@ -18,3 +18,5 @@ set columns=80
 " allow yank to clipboard 
  set clipboard=unnamedplus
 
+" allow select all at once
+nnoremap <leader>a ggVG
